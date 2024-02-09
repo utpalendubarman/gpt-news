@@ -1,0 +1,4 @@
+source bin/activate
+export OPENAI_API_KEY=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
+export TAVILY_API_KEY=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
+python3 app.py

@@ -1,0 +1,2 @@
+export OPEN_API_KEY=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
+export TAVILY_API_KEY=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
